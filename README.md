@@ -22,4 +22,5 @@ Include more pages. Make the story progress slower.
 
 Expand It:
 
+How did you rework the storybook to add stronger visual feedback and animation?
 Add drawing to page 2. Interactivity to get to next slide (for example, tap rocket). Rocket triggers a screen shake. Make the slide take up the full page.
